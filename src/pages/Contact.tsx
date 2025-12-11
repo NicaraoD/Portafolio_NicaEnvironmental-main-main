@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useForm } from '@formspree/react';
 import PageLayout from '../components/PageLayout';
 import Footer from '../components/Footer';
