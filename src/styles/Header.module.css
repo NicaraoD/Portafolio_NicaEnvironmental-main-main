@@ -1,0 +1,306 @@
+
+
+:root {
+  --primary-blue: #00123a;
+  --primary-blue-light: #0a1f5c;
+  --primary-blue-dark: #000a1f;
+  --accent-white: #ffffff;
+  --text-light: #f5f5f5;
+  --text-gray: #e0e0e0;
+}
+
+.headerContainer {
+  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-light) 100%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 1.5rem;
+  gap: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.headerContainer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at top right, rgba(255, 255, 255, 0.05) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.credentialsSection {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  z-index: 1;
+}
+
+.credentialItem {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.03));
+  border-radius: 1.25rem;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.credentialItem:hover {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.06));
+  transform: translateX(8px) translateY(-2px);
+  border-color: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.institutionLogo {
+  width: 7rem;
+  height: 7rem;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+
+.credentialItem:hover .institutionLogo {
+  transform: scale(1.05);
+}
+
+.universityLogo {
+  border-radius: 50%;
+}
+
+.credentialText {
+  flex: 1;
+  max-width: 320px;
+}
+
+.degreeTitle {
+  font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+  font-weight: 600;
+  color: var(--accent-white);
+  margin: 0;
+  line-height: 1.3;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: opacity 0.3s ease;
+}
+
+.fadeIn {
+  animation: fadeIn 0.5s ease-in forwards;
+}
+
+.fadeOut {
+  animation: fadeOut 0.3s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+}
+
+.taglineSection {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  min-height: 200px;
+}
+
+.taglineText {
+  font-size: clamp(2.5rem, 4vw, 4rem);
+  font-weight: 700;
+  color: var(--accent-white);
+  text-align: center;
+  margin: 0;
+  line-height: 1.2;
+  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(to bottom, #ffffff, #c8d8ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.profileSection {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 1.5rem;
+  z-index: 1;
+}
+
+.profileImage {
+  width: 300px;
+  height: auto;
+  border-radius: 1rem;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  transition: all 0.4s ease;
+  border: 3px solid rgba(255, 255, 255, 0.1);
+}
+
+.profileImage:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.4);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+@media (max-width: 1024px) {
+  .headerContainer {
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem 1rem;
+  }
+
+  .credentialsSection {
+    width: 100%;
+    max-width: 600px;
+  }
+
+  .taglineSection {
+    margin: 1rem 0;
+  }
+
+  .taglineText {
+    font-size: clamp(2rem, 5vw, 3rem);
+  }
+
+  .profileImage {
+    width: 250px;
+  }
+
+  .institutionLogo {
+    width: 6rem;
+    height: 6rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .headerContainer {
+    padding: 1rem;
+    gap: 1.5rem;
+  }
+
+  .credentialItem {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.5rem 1rem;
+  }
+
+  .institutionLogo {
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .credentialText {
+    max-width: 100%;
+  }
+
+  .degreeTitle {
+    font-size: clamp(1rem, 4vw, 1.4rem);
+  }
+
+  .taglineText {
+    font-size: clamp(1.5rem, 6vw, 2.5rem);
+    padding: 0 1rem;
+  }
+
+  .profileImage {
+    width: 100%;
+    max-width: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .headerContainer {
+    gap: 1rem;
+  }
+
+  .credentialItem {
+    padding: 1rem 0.5rem;
+    gap: 0.75rem;
+  }
+
+  .institutionLogo {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  .degreeTitle {
+    font-size: 1rem;
+  }
+
+  .taglineText {
+    font-size: 1.3rem;
+  }
+
+  .profileImage {
+    max-width: 240px;
+  }
+}
+
+@media (max-width: 768px) {
+  .headerContainer {
+    flex-direction: column;
+    padding: 2rem 1rem;
+    gap: 2rem;
+    order: 1;
+  }
+
+  .credentialsSection {
+    width: 100%;
+  }
+
+  .taglineSection {
+    width: 100%;
+    text-align: center;
+  }
+
+  .profileSection {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .profilePhoto {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@media (max-width: 480px) {
+  .headerContainer {
+    padding: 1.5rem 0.75rem;
+  }
+
+  .credential {
+    font-size: 0.9rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .profilePhoto {
+    width: 120px;
+    height: 120px;
+  }
+}

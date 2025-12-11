@@ -1,0 +1,276 @@
+
+
+.profileCard {
+    display: flex;
+    gap: 2.5rem;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    padding: 2rem;
+    background: rgb(255, 255, 255);
+    border-radius: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(10px);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+}
+/* 
+.profileCard::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255);
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    pointer-events: none;
+}
+
+.profileCard:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    border-color: rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.05);
+} */
+
+/* .profileCard:hover::before {
+    opacity: 1;
+} */
+
+
+.profileCard:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    border-color: rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
+} 
+
+.profileCardReversed {
+    display: flex;
+    gap: 2.5rem;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    padding: 2rem;
+    background: rgb(255, 255, 255);
+    border-radius: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(10px);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+    flex-direction: row-reverse;
+}
+
+/* .profileCardReversed::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0%, transparent 100%);
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    pointer-events: none;
+}
+
+
+
+.profileCardReversed:hover::before {
+    opacity: 1;
+} */
+
+
+.profileCardReversed:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    border-color: rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
+}
+
+.cardImageWrapper {
+    flex: 1;
+    min-width: 0;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+.cardImageWrapper::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, transparent 0%, rgba(0, 18, 58, 0.3) 100%);
+    pointer-events: none;
+    transition: opacity 0.4s ease;
+}
+
+.profileCard:hover .cardImageWrapper::after {
+    opacity: 0.5;
+}
+
+.cardImage {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    object-position: center top;
+    transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    display: block;
+}
+
+.profileCard:hover {
+    transform: scale(1.05);
+}
+
+.cardImage:hover{
+     transform: scale(1.05);
+}
+
+.cardContent {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+ 
+}
+
+.cardTitle {
+    font-size: clamp(2rem, 3vw, 2.75rem);
+    color: #141414;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.2;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    position: relative;
+    padding-bottom: 1rem;
+    background-color: #141414;
+}
+
+.cardTitle::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 80px;
+    height: 3px;
+    background: linear-gradient(90deg, #070707, transparent);
+    border-radius: 2px;
+}
+
+.cardDescription {
+    font-size: clamp(1.15rem, 1.8vw, 1.6rem);
+    color: #252525;
+    line-height: 1.75;
+    margin: 0;
+    text-align: justify;
+}
+
+@media (max-width: 1200px) {
+
+    .profileCard,
+    .profileCardReversed {
+        gap: 2rem;
+        padding: 1.75rem;
+    }
+
+    .cardImage {
+        height: 500px;
+    }
+
+    .cardTitle {
+        font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+    }
+
+    .cardDescription {
+        font-size: clamp(1.05rem, 2vw, 1.4rem);
+    }
+}
+
+@media (max-width: 1024px) {
+
+    .profileCard,
+    .profileCardReversed {
+        flex-direction: column;
+        gap: 1.5rem;
+        padding: 1.5rem;
+    }
+
+    .cardImageWrapper {
+        width: 100%;
+    }
+
+    .cardImage {
+        height: 450px;
+    }
+
+    .cardContent {
+        gap: 1.25rem;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .profileCard,
+    .profileCardReversed {
+        padding: 1.25rem;
+        gap: 1.25rem;
+        border-radius: 1rem;
+    }
+
+    .cardImage {
+        height: 350px;
+    }
+
+    .cardTitle {
+        font-size: clamp(1.5rem, 5vw, 2rem);
+        padding-bottom: 0.75rem;
+    }
+
+    .cardTitle::after {
+        width: 60px;
+        height: 2px;
+    }
+
+    .cardDescription {
+        font-size: clamp(1rem, 3vw, 1.25rem);
+        line-height: 1.6;
+        text-align: left;
+    }
+
+    .cardContent {
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .profileCard,
+    .profileCardReversed {
+        padding: 1rem;
+        gap: 1rem;
+    }
+
+    .cardImage {
+        height: 280px;
+    }
+
+    .cardTitle {
+        font-size: 1.4rem;
+    }
+
+    .cardDescription {
+        font-size: 0.95rem;
+    }
+}

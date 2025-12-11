@@ -1,0 +1,197 @@
+.modalOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    padding: 2rem;
+    animation: fadeIn 0.3s ease;
+    backdrop-filter: blur(4px);
+}
+
+.modalContent {
+    background: white;
+    border-radius: 1.5rem;
+    padding: 3rem;
+    max-width: 800px;
+    width: 100%;
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    animation: slideUpModal 0.4s ease;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.modalContent::-webkit-scrollbar {
+    display: none;
+}
+
+@keyframes slideUpModal {
+    from {
+        opacity: 0;
+        transform: translateY(50px) scale(0.95);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.closeButton {
+    position: sticky;
+    top: 1rem;
+    float: right;
+    background: white;
+    border: 2px solid #e0e0e0;
+    font-size: 2rem;
+    line-height: 1;
+    color: #666;
+    cursor: pointer;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    margin-bottom: 1rem;
+}
+
+.closeButton:hover {
+    background: #f8f8f8;
+    border-color: #00123a;
+    color: #00123a;
+    transform: rotate(90deg) scale(1.1);
+}
+
+.modalTitle {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #00123a;
+    margin-bottom: 0.5rem;
+    clear: both;
+}
+
+.modalSubtitle {
+    font-size: 1.2rem;
+    color: #0a1f5c;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+}
+
+.modalMeta {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    color: #666;
+    font-size: 0.95rem;
+}
+
+.modalSection {
+    margin-bottom: 2rem;
+}
+
+.modalSectionTitle {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #00123a;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 0.5rem;
+}
+
+.modalList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.modalList li {
+    padding-left: 1.5rem;
+    position: relative;
+    margin-bottom: 0.75rem;
+    color: #444;
+    line-height: 1.6;
+}
+
+.modalList li::before {
+    content: '▹';
+    position: absolute;
+    left: 0;
+    color: #0a1f5c;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.modalDescription {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+
+.skillTags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.skillTag {
+    padding: 0.5rem 1rem;
+    background: linear-gradient(135deg, #e8f0fe, #d0e3fc);
+    border-radius: 2rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #0a1f5c;
+}
+
+@media (max-width: 768px) {
+    .modalOverlay {
+        padding: 0;
+    }
+
+    .modalContent {
+        padding: 2rem 1.5rem;
+        max-height: 100vh;
+        height: 100vh;
+        border-radius: 0;
+        max-width: 100%;
+    }
+
+    .modalTitle {
+        font-size: 1.5rem;
+        padding-right: 0;
+    }
+
+    .modalMeta {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .closeButton {
+        width: 38px;
+        height: 38px;
+        font-size: 1.75rem;
+    }
+}
