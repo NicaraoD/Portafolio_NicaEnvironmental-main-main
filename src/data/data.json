@@ -47,50 +47,66 @@
         "Modern engineering for a greener future",
         "Strategic, science-based environmental consulting services",
         "Innovation in water resource management",
-        "Smarter pathways to environmental resilience",
         "Reliable insights for environmental action"
     ],
     "education": [
         {
             "id": 1,
-            "degree": "Master of Science",
-            "field": "Environmental pageSubtitle",
-            "fieldStatus": "Completed",
+            "degree": "Doctor of Philosophy in Environmental Engineering and Science",
+            "field": "Industrial Biotechnology",
+            "fieldStatus": "Dropped out",
             "institution": "Rice University",
             "location": "Houston, TX, USA",
-            "duration": "2017 - 2019",
-            "description": "Specialized in water resource management and environmental systems analysis. Thesis focused on sustainable wastewater treatment technologies for developing regions.",
+            "duration": "2024 - 2025",
+            "description": "Specialized industrial biotechnology production process improvement. Research focused on the design of a scalable industrial process for ectoine bioproduction and the use of novel extremophiles that produce extremolyte cocktails to enhance industrially relevant in vitro bacterial growth as supplemental additives.",
             "achievements": [
-                "GPA: 3.9/4.0",
-                "Graduate Research Assistant",
-                "Published 3 peer-reviewed papers",
+                "President of the Civil and Environmental Engineering Department Graduate Student Asociation",
+                "Director of professional development of the Graduate Student Asociation",
+                "Graduate level course Teaching assistant",
                 "NSF Fellowship Recipient"
             ]
         },
         {
             "id": 2,
-            "degree": "Bachelor of Environmental Engineering",
-            "field": "Environmental Engineering",
+            "degree": "Master of Science in Environmental Engineering and Science",
+            "field": "Environmental biotechnology",
             "fieldStatus": "Completed",
-            "institution": "Universidad Nacional de Ingeniería",
-            "location": "Managua, Nicaragua",
-            "duration": "2012 - 2016",
-            "description": "Comprehensive education in environmental engineering principles, with focus on pollution control and environmental impact assessment.",
+            "institution": "Rice University",
+            "location": "Houston, TX, USA",
+            "duration": "2022 - 2024",
+            "description": "Specialized in water treatment technologies, molecular biology and biotechnology. Thesis focused on the development of a rapid and portable analytical method for in-field detection of fusobacterium necrophorum in cattle ruminal samples.",
             "achievements": [
-                "Graduated with Honors",
-                "President of Environmental Engineering Society",
-                "Capstone Project: Air Quality Monitoring System",
-                "Dean's List all semesters"
+                "Graduate level course Teaching assistant",
+                "Graduate Research Assistant",
+                "NSF Fellowship Recipient",
+                "GPA: 3.4/4.0"
+            ]
+        },
+        {
+            "id": 3,
+            "degree": "Bachelor of Environmental Engineering",
+            "field": "Water Resource Management",
+            "fieldStatus": "Completed",
+            "institution": "Central American University",
+            "location": "Managua, Nicaragua",
+            "duration": "2016 - 2021",
+            "description": "Comprehensive education in environmental engineering principles, with focus on water resource management, contaminated site characterization and environmental remediation. Thesis focused on developing a proposal for a remediation plan for the Venice Lagoon, Condega, Esteli, Nicaragua.",
+            "achievements": [
+                "Manager of Laboratory volunteers for environmental projects",
+                "Graduated with Honors and academic excellence",
+                "Molecular Biology Research Intern",
+                "University sponsored Thesis"
             ]
         }
+
     ],
     "experience": [
         {
-            "id": "550e8400-e29b-41d4-a716-446655440001",
-            "title": "Environmental Consultant",
-            "duration": "2022 - Present",
-            "company": "Nica Environmental Solutions",
-            "location": "Managua, Nicaragua",
+            "id": "Experience_1",
+            "title": "Environmental Biotechnology Teaching Assistant",
+            "duration": "2024 - 2025",
+            "company": "Rice University",
+            "location": "Houston, Texas, USA",
             "responsibilities": [
                 "Lead environmental impact assessments for infrastructure and development projects",
                 "Design and implement sustainable waste management systems for industrial clients",
@@ -105,26 +121,26 @@
                 "Published 3 technical reports on Lake Nicaragua water quality trends"
             ],
             "skills": [
-                "Environmental Impact Assessment",
-                "Water Quality Analysis",
-                "Climate Adaptation",
-                "ISO 14001",
-                "Technical Report Writing"
+                "Environmental Biotechnolog",
+                "Design of aerobic and anaerobic bioreactors",
+                "Graduate students tutoring",
+                "Assigment grading",
+                "Teaching"
             ]
         },
         {
-            "id": "550e8400-e29b-41d4-a716-446655440002",
-            "title": "Senior Water Resources Engineer",
-            "duration": "2020 - 2022",
-            "company": "HydroConsult International",
-            "location": "San José, Costa Rica",
+            "id": "Experience_2",
+            "title": "Research Intern",
+            "duration": "2021 - 2022",
+            "company": "Molecular Biology Center / Central American University",
+            "location": "Managua, Nicaragua",
             "responsibilities": [
                 "Designed municipal water supply systems for rural communities",
                 "Conducted hydrological modeling and flood risk assessments",
                 "Managed cross-functional teams on water infrastructure projects",
                 "Coordinated with government agencies on water resource planning"
             ],
-            "detailedDescription": "At HydroConsult International, I led the design and implementation of sustainable water supply systems for underserved rural communities. My work involved advanced hydrological modeling, risk assessment, and stakeholder coordination to deliver reliable water access to over 50,000 people.",
+            "detailedDescription": "Participation in research: Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua, published in the Brazilian Journal of Biology (2024).",
             "achievements": [
                 "Delivered clean water access to 50,000+ rural residents",
                 "Completed 8 major water infrastructure projects under budget",
