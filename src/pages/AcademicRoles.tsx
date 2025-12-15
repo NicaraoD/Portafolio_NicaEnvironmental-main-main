@@ -19,28 +19,6 @@ export default function AcademicRoles() {
                         <h3 className={styles.institution}>{role.institution}</h3>
                         <p className={styles.description}>{role.description}</p>
 
-                        {role.courses && (
-                            <>
-                                <h4 className={styles.sectionTitle}>Courses Taught:</h4>
-                                <ul className={styles.responsibilities}>
-                                    {role.courses.map((course, idx) => (
-                                        <li key={idx}>{course}</li>
-                                    ))}
-                                </ul>
-                            </>
-                        )}
-
-                        {role.researchAreas && (
-                            <>
-                                <h4 className={styles.sectionTitle}>Research Areas:</h4>
-                                <ul className={styles.responsibilities}>
-                                    {role.researchAreas.map((area, idx) => (
-                                        <li key={idx}>{area}</li>
-                                    ))}
-                                </ul>
-                            </>
-                        )}
-
                         <h4 className={styles.sectionTitle}>Achievements:</h4>
                         <ul className={styles.responsibilities}>
                             {role.achievements.map((achievement, idx) => (

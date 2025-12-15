@@ -11,7 +11,6 @@ import ServiceComponent from './nav-menu/ServiceComponent'
 export default function NavComponent() {
   const navId = useId()
   const [isMenuOpen, setIsMenuOpen] = useState(false)
-  const [isHovered, setIsHovered] = useState(false);
   const location = useLocation()
 
   const toggleMenu = () => {
@@ -67,8 +66,6 @@ export default function NavComponent() {
         </Link>
 
         <div
-          onMouseEnter={() => setIsHovered(true)}
-          onMouseLeave={() => setIsHovered(false)}
           className={`${styles.navServiceContainer} ${isActive('/services')}`}
         >
           <div className={styles.buttonServiceContainer}>
