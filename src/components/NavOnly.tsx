@@ -63,10 +63,10 @@ export default function NavComponent() {
                     <span className={styles.navLink}>Skills</span>
                 </Link>
 
-                <Link to="/services" className={`${styles.navItem} ${isActive('/services')}`}>
+                {/* <Link to="/services" className={`${styles.navItem} ${isActive('/services')}`}>
                     <IoIosMail className={styles.navIcon} size={32} color='#00123a' />
                     <span className={styles.navLink}>Services</span>
-                </Link>
+                </Link> */}
 
                 <Link to="/contact" className={`${styles.navItem} ${isActive('/contact')}`}>
                     <IoIosMail className={styles.navIcon} size={32} color='#00123a' />
