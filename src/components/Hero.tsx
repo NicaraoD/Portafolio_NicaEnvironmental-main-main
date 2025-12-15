@@ -1,7 +1,6 @@
 import { useId } from 'react'
 import HeroCard from './hero/HeroCard'
 import Nicarao from '../../public/nicarao.jpg'
-import NicaraoDos from '../../public/Nicaraodos.jpg'
 import Labpic from '../../public/Labpic.jpeg'
 import Rice from '../../public/rice_news.jpg'
 import styles from '../styles/Hero.module.css'
