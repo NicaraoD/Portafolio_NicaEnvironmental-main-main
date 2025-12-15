@@ -353,9 +353,10 @@
                 "id": "skill-004",
                 "name": "Environmental and Industrial Biotechnology",
                 "tools": [
-                    "Advanced Laboratory Techniques in Molecular Biology and Microbiology",
+                    "Laboratory Techniques in Molecular Biology and Microbiology",
                     "Design of Aerobic and Anaerobic Bioreactors",
                     "Industrial Biotechnology Efficiency Management",
+                    "Activated sludge simulator software (ASIM)",
                     "Environmental Microbiology",
                     "Metagenomic and Genomic Analysis."
                 ],
@@ -366,10 +367,10 @@
                 "name": "Water and Wastewater Treatment",
                 "tools": [
                     "Laboratory Techniques in Molecular Biology, Microbiology, and Chemistry",
-                    "Physical chemical precesses for water quality control",
+                    "Physical Chemical Precesses for Water Quality Control",
                     "Environmental Biotechnology",
                     "Environmental Organic Chemistry",
-                    "Design of Aerobic and Anaerobic Bioreactors for wastewater treatment"
+                    "Design of Aerobic and Anaerobic Bioreactors for Wastewater Treatment"
                 ],
                 "description": ""
             },
@@ -377,8 +378,12 @@
                 "id": "skill-006",
                 "name": "Soil and Sediment Bioremediation",
                 "tools": [
-                    "Vulnerability Analysis",
-                    "Adaptation Planning"
+                    "Laboratory Techniques in Molecular Biology, Microbiology, and Chemistry",
+                    "Environmental Microbiology and Biotechnology",
+                    "Adaptation Planning",
+                    "Fate and Transport of Contaminants",
+                    "Environmental Hydrology and Hydrogeology",
+                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models for groundwater flow and contaminant transport), HEC-HMS, and HEC-RAS"
                 ],
                 "description": ""
             },
@@ -386,10 +391,13 @@
                 "id": "skill-007",
                 "name": "Environmental Modeling and Analysis",
                 "tools": [
-                    "R",
-                    "Python",
-                    "MATLAB",
-                    "Statistical Modeling"
+                    "Fate and Transport of Contaminants",
+                    "Environmental Organic Chemistry (EPIsuite)",
+                    "Environmental Hydrology and Hydrogeology",
+                    "Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST) Software",
+                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models for groundwater flow and contaminant transport), HEC-HMS, and HEC-RAS",
+                    "Activated sludge simulator software (ASIM)",
+                    "Geographic Information Systems (ArcGIS and Qgis)"
                 ],
                 "description": ""
             },
@@ -397,9 +405,12 @@
                 "id": "skill-008",
                 "name": "Environmental Impact Assessment and Disaster Risk Management",
                 "tools": [
-                    "ISO 14001",
-                    "NEPA",
-                    "Environmental Permitting"
+                    "Laboratory Techniques in Molecular Biology, Microbiology, and Chemistry",
+                    "Envronmental Modeling and Analysis.",
+                    "Fate and Transport of Contaminants",
+                    "Geographic Information Systems (ArcGIS and Qgis)",
+                    "Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST) Software",
+                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models for groundwater flow and contaminant transport), HEC-HMS, and HEC-RAS"
                 ],
                 "description": ""
             },
@@ -407,32 +418,37 @@
                 "id": "skill-009",
                 "name": " Water Resources Management",
                 "tools": [
-                    "Vulnerability Analysis",
-                    "Adaptation Planning"
+                    "Laboratory Techniques in Molecular Biology, Microbiology, and Chemistry",
+                    "Environmental Modeling and Analysis",
+                    "Environmental Hydrology and Hydrogeology",
+                    "Geographic Information Systems (ArcGIS and Qgis)",
+                    "Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST) Software",
+                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models for groundwater flow and contaminant transport), HEC-HMS, and HEC-RAS",
+                    "Environmental Socioeconomic Analysis"
                 ],
                 "description": ""
             }
         ],
         "competencies": [
             {
-                "name": "Project Management",
-                "icon": "📈"
+                "name": "Project Formulation and Management",
+                "icon": "🗂️🎯"
             },
             {
                 "name": "Team Leadership",
-                "icon": "👥"
+                "icon": "👥⭐"
             },
             {
                 "name": "Technical Writing",
-                "icon": "📝"
+                "icon": "📄✍️"
             },
             {
                 "name": "Public Speaking",
-                "icon": "🎤"
+                "icon": "🗣️🎙️"
             },
             {
                 "name": "Stakeholder Engagement",
-                "icon": "🤝"
+                "icon": "🌐🤝"
             }
         ],
         "languages": [
