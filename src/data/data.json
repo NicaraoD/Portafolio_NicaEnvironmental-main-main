@@ -313,12 +313,10 @@
                     "Metagenomic analysis",
                     "Nanopore Sequencer",
                     "Pangenomic analysis (Panaroo)",
-                    "Spectrophotometer",
                     "NanoDrop",
                     "96-Well Multimode Microplate reader",
                     "Thermocycler",
-                    "Real-Time Thermocycler",
-                    "10-L Laboratory Bioreactor / Fermenter"
+                    "Real-Time Thermocycler"
                 ],
                 "description": ""
             },
@@ -344,7 +342,7 @@
                     "Liquid Chromatography–Tandem Mass Spectrometry (LC-MS/MS)",
                     "Gas Chromatography–Mass Spectrometry (GC-MS)",
                     "Fluorimeter",
-                    "Colorimeter,",
+                    "Colorimeter",
                     "Spectrophotometer"
                 ],
                 "description": ""
@@ -370,7 +368,8 @@
                     "Physical Chemical Precesses for Water Quality Control",
                     "Environmental Biotechnology",
                     "Environmental Organic Chemistry",
-                    "Design of Aerobic and Anaerobic Bioreactors for Wastewater Treatment"
+                    "Design of Aerobic and Anaerobic Bioreactors for Wastewater Treatment",
+                    "Activated sludge simulator software (ASIM)"
                 ],
                 "description": ""
             },
@@ -381,9 +380,7 @@
                     "Laboratory Techniques in Molecular Biology, Microbiology, and Chemistry",
                     "Environmental Microbiology and Biotechnology",
                     "Adaptation Planning",
-                    "Fate and Transport of Contaminants",
-                    "Environmental Hydrology and Hydrogeology",
-                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models for groundwater flow and contaminant transport), HEC-HMS, and HEC-RAS"
+                    "Fate and Transport of Contaminants"
                 ],
                 "description": ""
             },
@@ -395,9 +392,8 @@
                     "Environmental Organic Chemistry (EPIsuite)",
                     "Environmental Hydrology and Hydrogeology",
                     "Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST) Software",
-                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models for groundwater flow and contaminant transport), HEC-HMS, and HEC-RAS",
-                    "Activated sludge simulator software (ASIM)",
-                    "Geographic Information Systems (ArcGIS and Qgis)"
+                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models), HEC-HMS, and HEC-RAS",
+                    "Activated sludge simulator software (ASIM)"
                 ],
                 "description": ""
             },
@@ -409,8 +405,7 @@
                     "Envronmental Modeling and Analysis.",
                     "Fate and Transport of Contaminants",
                     "Geographic Information Systems (ArcGIS and Qgis)",
-                    "Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST) Software",
-                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models for groundwater flow and contaminant transport), HEC-HMS, and HEC-RAS"
+                    "Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST) Software"
                 ],
                 "description": ""
             },
@@ -421,9 +416,6 @@
                     "Laboratory Techniques in Molecular Biology, Microbiology, and Chemistry",
                     "Environmental Modeling and Analysis",
                     "Environmental Hydrology and Hydrogeology",
-                    "Geographic Information Systems (ArcGIS and Qgis)",
-                    "Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST) Software",
-                    "Groundwater Vistas Software (MT3D, MODFLOW, and MODPATH models for groundwater flow and contaminant transport), HEC-HMS, and HEC-RAS",
                     "Environmental Socioeconomic Analysis"
                 ],
                 "description": ""
@@ -458,7 +450,7 @@
             },
             {
                 "name": "English",
-                "level": "Fluent (C2 proficiency)"
+                "level": "Fluent"
             },
             {
                 "name": "Portuguese",

@@ -4,7 +4,7 @@ import PageLayout from '../components/PageLayout';
 import Footer from '../components/Footer';
 import Modal from '../components/Modal';
 import { triggerConfetti } from '../utils/confetti';
-import styles from '../styles/PageLayout.module.css';
+import styles from '../styles/Connectme.module.css';
 import modalStyles from '../styles/Modal.module.css';
 import data from '../data/data.json';
 
