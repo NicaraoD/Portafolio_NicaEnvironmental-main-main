@@ -2,6 +2,7 @@ import { useId } from 'react'
 import HeroCard from './hero/HeroCard'
 import Nicarao from '../../public/nicarao.jpg'
 import NicaraoDos from '../../public/Nicaraodos.jpg'
+import Labpic from '../../public/Labpic.jpeg'
 import Rice from '../../public/rice_news.jpg'
 import styles from '../styles/Hero.module.css'
 
@@ -22,7 +23,7 @@ export default function Hero() {
           title='Research Experience'
           p1="Research experience in biotechnology, water and wastewater treatment, environmental remediation, and water resources management."
           isReversed={true}
-          img={NicaraoDos}
+          img={Labpic}
         />
 
         <HeroCard
