@@ -6,7 +6,7 @@ import { GiMicroscope, GiBrain } from "react-icons/gi"
 import { IoIosMail } from "react-icons/io"
 import { Link, useLocation } from 'react-router-dom'
 import styles from '../styles/Nav.module.css'
-import ServiceComponent from './nav-menu/ServiceComponent'
+
 
 export default function NavComponent() {
   const navId = useId()
