@@ -27,7 +27,7 @@ export default function ResearchProjects() {
                         <p className={styles.description}>
                             {project.description}
                         </p>
-                        <h4 className={styles.sectionTitle}>Objectives:</h4>
+                        <h4 className={styles.sectionTitle}>Description:</h4>
                         <ul className={styles.responsibilities}>
                             {project.objectives.map((objective, idx) => (
                                 <li key={idx}>{objective}</li>
