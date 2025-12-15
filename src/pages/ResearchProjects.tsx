@@ -22,7 +22,7 @@ export default function ResearchProjects() {
                             </span>
                         </div>
                         <p className={styles.projectMeta}>
-                            <strong>Funding:</strong> {project.funding} | <strong>Duration:</strong> {project.duration} | <strong>Budget:</strong> {project.budget}
+                            <strong>Funding:</strong> {project.funding} | <strong>Duration:</strong> {project.duration} 
                         </p>
                         <p className={styles.description}>
                             {project.description}
@@ -33,9 +33,7 @@ export default function ResearchProjects() {
                                 <li key={idx}>{objective}</li>
                             ))}
                         </ul>
-                        <div className={styles.keyFindings}>
-                            <strong>Key Outputs:</strong> {project.keyOutputs}
-                        </div>
+                        
                     </div>
                 ))}
             </div>

@@ -54,23 +54,23 @@
             "id": 1,
             "degree": "Doctor of Philosophy in Environmental Engineering and Science",
             "field": "Industrial Biotechnology",
-            "fieldStatus": "Dropped out",
+            "fieldStatus": "Program discontinued / NIH Research funding discontinued",
             "institution": "Rice University",
             "location": "Houston, TX, USA",
-            "duration": "2024 - 2025",
+            "duration": "2022 - 2025",
             "description": "Specialized industrial biotechnology production process improvement. Research focused on the design of a scalable industrial process for ectoine bioproduction and the use of novel extremophiles that produce extremolyte cocktails to enhance industrially relevant in vitro bacterial growth as supplemental additives.",
             "achievements": [
                 "President of the Civil and Environmental Engineering Department Graduate Student Asociation",
                 "Director of professional development of the Graduate Student Asociation",
                 "Graduate level course Teaching assistant",
-                "NSF Fellowship Recipient"
+                "NSF-Funded ERC Fellowship Recipient"
             ]
         },
         {
             "id": 2,
             "degree": "Master of Science in Environmental Engineering and Science",
             "field": "Environmental biotechnology",
-            "fieldStatus": "Completed",
+            "fieldStatus": "Complete",
             "institution": "Rice University",
             "location": "Houston, TX, USA",
             "duration": "2022 - 2024",
@@ -78,7 +78,7 @@
             "achievements": [
                 "Graduate level course Teaching assistant",
                 "Graduate Research Assistant",
-                "NSF Fellowship Recipient",
+                "NSF-Funded ERC Fellowship Recipient",
                 "GPA: 3.4/4.0"
             ]
         },
@@ -86,13 +86,13 @@
             "id": 3,
             "degree": "Bachelor of Environmental Engineering",
             "field": "Water Resource Management",
-            "fieldStatus": "Completed",
+            "fieldStatus": "Complete",
             "institution": "Central American University",
             "location": "Managua, Nicaragua",
             "duration": "2016 - 2021",
             "description": "Comprehensive education in environmental engineering principles, with focus on water resource management, contaminated site characterization and environmental remediation. Thesis focused on developing a proposal for a remediation plan for the Venice Lagoon, Condega, Esteli, Nicaragua.",
             "achievements": [
-                "Manager of Laboratory volunteers for environmental projects",
+                "Manager of Laboratory volunteers for environmental project",
                 "Graduated with Honors and academic excellence",
                 "Molecular Biology Research Intern",
                 "University sponsored Thesis"
@@ -108,23 +108,22 @@
             "company": "Rice University",
             "location": "Houston, Texas, USA",
             "responsibilities": [
-                "Lead environmental impact assessments for infrastructure and development projects",
-                "Design and implement sustainable waste management systems for industrial clients",
-                "Conduct water quality monitoring and analysis for Lake Nicaragua restoration",
-                "Provide technical expertise on climate change adaptation strategies",
-                "Develop environmental management plans compliant with national and international standards"
+                "Graduate students tutoring and follow up with assigments.",
+                "Grading Quizes and Homeworks while providing solid feedback.",
+                "Review Lectures with Graduate students and clarify every question.",
+                "Availability to answer any email inquiry from the graduate students, providing online support.",
+                "Personalized tutoring for every graduate student to match their pace and needs."
             ],
-            "detailedDescription": "As the lead Environmental Consultant at Nica Environmental Solutions, I spearhead comprehensive environmental impact assessments for major infrastructure projects across Central America. My role encompasses designing innovative waste management solutions, conducting rigorous water quality analyses, and advising on climate resilience strategies.",
+            "detailedDescription": "Teaching assistant for the civil and environmental engineering department of Rice University for a graduate level course of environmental biotechnology, focused in wastewater treatment applications and bioreactor design during fall semester 2024 and 2025.",
             "achievements": [
-                "Successfully completed 15+ EIAs for major development projects",
-                "Reduced industrial waste output by 40% through optimized management systems",
-                "Published 3 technical reports on Lake Nicaragua water quality trends"
+                "Student satisfaction rating: 4.9/5.0.",
+                "Student average grade for the course is 'A'."
             ],
             "skills": [
-                "Environmental Biotechnolog",
-                "Design of aerobic and anaerobic bioreactors",
-                "Graduate students tutoring",
-                "Assigment grading",
+                "Environmental Biotechnology",
+                "Design of Aerobic and Anaerobic Bioreactors",
+                "Graduate Students Tutoring",
+                "Assigment Grading",
                 "Teaching"
             ]
         },
@@ -135,152 +134,257 @@
             "company": "Molecular Biology Center / Central American University",
             "location": "Managua, Nicaragua",
             "responsibilities": [
-                "Designed municipal water supply systems for rural communities",
-                "Conducted hydrological modeling and flood risk assessments",
-                "Managed cross-functional teams on water infrastructure projects",
-                "Coordinated with government agencies on water resource planning"
+                "Project formulation and review.",
+                "In-situ water sampling, isolation of Gram-negative bacteria, and DNA extraction.",
+                "Identification of isolates using API biochemical tests and 16S rRNA gene amplification.",
+                "Sanger sequencing of extended-spectrum β-lactamase antibiotic resistance genes.",
+                "Identification of potential contamination sources and data analysis."
             ],
             "detailedDescription": "Participation in research: Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua, published in the Brazilian Journal of Biology (2024).",
             "achievements": [
-                "Delivered clean water access to 50,000+ rural residents",
-                "Completed 8 major water infrastructure projects under budget",
-                "Awarded 'Engineer of the Year' by Costa Rica Water Association"
+                "Delivered a innovative research project that was the first of its kind in the region.",
+                "Characterization of a river contaminated with Extended-spectrum β-lactamases genes in Gram-negative bacterias."
             ],
             "skills": [
-                "Hydrological Modeling",
-                "Water Supply Design",
-                "Flood Risk Assessment",
-                "Project Management",
-                "Stakeholder Engagement"
+                "Microbiology",
+                "Research Project Formulation",
+                "Molecular Biology",
+                "Bacterial Genetic Analysis",
+                "PCR and Sanger Sequencing",
+                "Environmental Analysis"
             ]
         },
         {
-            "id": "550e8400-e29b-41d4-a716-446655440003",
-            "title": "Environmental Scientist",
-            "duration": "2017 - 2020",
-            "company": "Green Earth Analytics",
-            "location": "Houston, TX, USA",
+            "id": "Experience_3",
+            "title": "Intern",
+            "duration": "2020 - 2021",
+            "company": "Inter-Ecclesial Center for Theological and Social Studies (CIEETS)",
+            "location": "Managua, Nicaragua",
             "responsibilities": [
-                "Performed environmental site assessments and remediation planning",
-                "Analyzed soil and groundwater samples for contamination",
-                "Prepared regulatory compliance reports for EPA and state agencies",
-                "Supported litigation cases with expert witness testimony"
+                "Designed and formulated disaster response projects.",
+                "Supported rapid response initiatives in rural communities after hurricanes ETA and IOTA.",
+                "Led environmental education and risk management workshops in northern Nicaragua.",
+                "Supported climate change adaptation projects in rural communities."
             ],
-            "detailedDescription": "Working at Green Earth Analytics, I specialized in environmental site assessments and contamination remediation for industrial and commercial properties. My analytical expertise and regulatory knowledge helped clients navigate complex environmental challenges and achieve compliance.",
+            "detailedDescription": "As an intern in CIEETS I formulated projects related to water security in rural communities affected by the hurricanes ETA and IOTA",
             "achievements": [
-                "Completed 30+ Phase I and Phase II environmental site assessments",
-                "Developed remediation plans saving clients over $2M in cleanup costs",
-                "Provided expert testimony in 5 environmental litigation cases"
+                "Secured funding for rapid response initiatives in rural communities after hurricanes ETA and IOTA",
+                "Supported rural communities food and water security post-hurricane"
             ],
             "skills": [
-                "Site Assessment",
-                "Soil & Groundwater Analysis",
-                "EPA Regulations",
-                "Remediation Planning",
-                "Expert Testimony"
+                "Environmental Education",
+                "Workshop Planning",
+                "Project Formulation",
+                "Environmental Workshops",
+                "Climate Change Adaptation"
             ]
         }
     ],
     "academicRoles": [
         {
-            "role": "Adjunct Professor",
-            "duration": "2021 - Present",
-            "institution": "Universidad Nacional de Ingeniería • Managua, Nicaragua",
-            "description": "Teaching undergraduate courses in Environmental Engineering, including Water Treatment Systems, Environmental Impact Assessment, and Sustainable Development. Mentoring senior capstone projects focused on environmental solutions for local communities.",
-            "courses": [
-                "Water Treatment Systems",
-                "Environmental Impact Assessment",
-                "Sustainable Development",
-                "Environmental Chemistry"
-            ],
+            "role": "President of the Civil and Environmental Engineering Department GSA",
+            "duration": "2024 - 2025",
+            "institution": "Rice University • Houston, TX, USA",
+            "description": "President of the Graduate Student Association (GSA) of the Civil and Environmental Engineering Department at Rice University during the 2024-2025 academic year.",
             "achievements": [
-                "Mentored 25+ capstone projects",
-                "Developed new curriculum for Water Treatment course",
-                "Student satisfaction rating: 4.8/5.0"
+                "Collaborated with an international and multicultural team",
+                "Connected laboratories accross the department",
+                "High attendance to organized events and seminar"
             ]
         },
         {
-            "role": "Research Associate",
-            "duration": "2019 - 2021",
-            "institution": "Rice University • Houston, TX, USA",
-            "description": "Conducted advanced research in environmental engineering with focus on climate change adaptation and water resource management. Published 5 peer-reviewed papers in international journals. Collaborated with interdisciplinary teams on NSF-funded projects.",
-            "researchAreas": [
-                "Climate Change Adaptation",
-                "Water Resource Management",
-                "Sustainable Wastewater Treatment"
-            ],
+            "role": "Director of Science Communication in the NEWT Student and Postdoc Leadership Council",
+            "duration": "2024 - 2025",
+            "institution": "Nanotechnology-Enabled Water Treatment Institute (NEWT) • Rice University • Houston, TX, USA",
+            "description": "Director of Science Communication in the Student and Postdoc Leadership Council of the Nanotechnology-Enabled Water Treatment Institute (NEWT) during 2024-2025 and a Graduate Student during 2022-2025.",
             "achievements": [
-                "5 peer-reviewed publications",
-                "$500K grant funding secured",
-                "Presented at 8 international conferences"
+                "NSF funded NEWT research associate from 2022-2025",
+                "Inter-University collaboration",
+                "Poster presentation in inter-university conference",
+                "Created the graduate students research Highlight section in the NEWT communications"
+            ]
+        },
+                {
+            "role": "WaTER Research Graduate Student Associate",
+            "duration": "2024 - 2025",
+            "institution": "Water Technologies Entrepreneurship and Research Institute (WaTER) • Rice University • Houston, TX, USA",
+            "description": "Graduate Student of the Rice Water Technologies Entrepreneurship and Research Institute (WaTER) during spring 2024 and the 2024-2025 academic year.",
+            "achievements": [
+                "Poster presentation in inter-university conference",
+                "Inter university and interdepartamental collaboration",
+                "First wave of research associates"
             ]
         }
     ],
     "researchProjects": [
         {
-            "title": "Climate Adaptation in Central American Water Systems",
-            "status": "Ongoing",
-            "funding": "National Science Foundation",
-            "duration": "2022-2025",
-            "budget": "$450,000",
-            "description": "Investigating the impacts of climate change on water resource availability in Central America. Developing adaptive management strategies for municipal water systems to ensure resilience against drought and extreme weather events.",
+            "title": "Novel extremophiles produce extremolyte cocktails that enhance industrially relevant in vitro bacterial growth as supplemental additives",
+            "status": "Industrial Biotechnology",
+            "funding": "National Institute of Health / Rice University",
+            "duration": "2024-2025",
+            "budget": "$0",
+            "description": "Doctor of Philosophy in Environmental Engineering and Science, Main Project: Novel extremophiles produce extremolyte cocktails that enhance industrially relevant in vitro bacterial growth as supplemental additives.",
             "objectives": [
-                "Assess climate change impacts on regional water systems",
-                "Develop predictive models for water availability",
-                "Create adaptive management strategies",
-                "Engage with local governments and communities"
-            ],
-            "keyOutputs": "3 publications, 2 conference presentations, Policy brief for regional governments, Management toolkit for water utilities"
+                "Enrichment and isolation of extremophilic bacteria from soil and wastewater samples.",
+                "DNA extraction, 16S rRNA gene Sanger sequencing, and whole-genome nanopore sequencing.",
+                "Genomic and pangenomic analysis of isolates and the identification of mutations in target genes.",
+                "Phylogenetic identification and classification of isolates with extremolyte production potential.",
+                "Application of culture-produced, non-purified extremolyte cocktails as growth additives in industrial bacterial culture media to enhance bacterial growth.",
+                "Metabolomic analysis to quantify the extremolytes produced by each extremophile in the culture medium.",
+                "Design and modification of culture media and growth conditions to optimize the growth of target extremophiles and their extremolyte extracellular production using a 96-well microplate reader.",
+                "Use of extremolyte cocktails to stimulate the growth of bacterias with industrial applications, including Zymomonas mobilis, Pseudomonas putida, Bacillus subtilis, B. amyloliquefaciens, and B. licheniformis."
+            ]
+          
         },
         {
-            "title": "Sustainable Industrial Wastewater Treatment",
-            "status": "Completed",
-            "funding": "Industry Partnership",
-            "duration": "2020-2022",
-            "budget": "$200,000",
-            "description": "Designed and tested innovative biological treatment systems for textile industry wastewater. Achieved 95% reduction in chemical oxygen demand (COD) using cost-effective microbial consortia.",
+            "title": "Design of a scalable industrial process for ectoine bioproduction",
+            "status": "Industrial Biotechnology",
+            "funding": "National Institute of Health / Rice University",
+            "duration": "2024-2025",
+            "budget": "$0",
+            "description": "Doctor of Philosophy in Environmental Engineering and Science, Main Project: Design of a scalable industrial process for ectoine bioproduction.",
             "objectives": [
-                "Develop cost-effective treatment technology",
-                "Test at pilot and full scale",
-                "Technology transfer to industry"
+                "Reactivation and enrichment of ectoine-producing bacteria from the NRRL culture collection.",
+                "Development of HPLC and LC-MS/MS methods for the detection of ectoine and hydroxyectoine.",
+                "Optimization of ectoine and hydroxyectoine bioproduction in high-efficiency extremophyle producers.",
+                "Laboratory-scale extracellular ectoine production in a 10-L bioreactor/fermenter.",
+                "Design of a low-energy method for purification of ectoine and hydroxyectoine."
             ],
-            "keyOutputs": "2 peer-reviewed publications, Patent application filed, Technology adopted by 5 facilities"
+            "keyOutputs": "Two key"
+        },
+        {
+            "title": "Development of a rapid and portable analytical method for in-field detection of Fusobacterium necrophorum in cattle ruminal samples.",
+            "status": "Molecular Biology",
+            "funding": "Nanotechnology-Enabled Water Treatment Institute (NEWT) / Rice University",
+            "duration": "2023-2024",
+            "budget": "$0",
+            "description": "Master of Science in Environmental Engineering and Science, Thesis: Development of a rapid and portable analytical method for in-field detection of Fusobacterium necrophorum in cattle ruminal samples.",
+            "objectives": [
+                "Adaptation of in-situ DNA extraction techniques, such as direct DNA elution, magnetic beads, and dipstick methods, for F. necrophorum DNA extraction.",
+                "Amplification of F. necrophorum DNA in cattle rumen fluid samples using PCR, LAMP, and qLAMP to establish standard results for comparison.",
+                "Adaptation of the open-source colorimeter (manufactured by IO RODEO) for real-time qLAMP measurements with spectrometric and fluorometric readings.",
+                "Design of an incubation chamber for metal machining and modification of the CircuitPython software to continuously record measurements during the LAMP incubation.",
+                "Development of a method for quantitative estimation of amplified DNA using qLAMP with real-time spectrometric and fluorometric readings from the modified equipment."
+            ],
+            "keyOutputs": "Three key"
+        },
+        {
+            "title": "Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua",
+            "status": "Molecular Biology",
+            "funding": "Molecular Biology Center / Central American University",
+            "duration": "2021-2022",
+            "budget": "$0",
+            "description": "Participation in research during internship in Molecular Biology Center at Central American University. Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua, published in the Brazilian Journal of Biology (2024).",
+            "objectives": [
+                "Project review and formulation.",
+                "In-situ water sampling, isolation of Gram-negative bacteria, and DNA extraction.",
+                "Identification of isolates using API biochemical tests and 16S rRNA gene amplification.",
+                "Sanger sequencing of extended-spectrum β-lactamase antibiotic resistance genes.",
+                "Identification of potential contamination sources and data analysis."
+            ],
+            "keyOutputs": "Four key"
+        },
+        {
+            "title": "Proposal of a remediation plan for the Venice Lagoon, Condega, Esteli, Nicaragua.",
+            "status": "Water Resource Management",
+            "funding": "Central American University / Condega, Esteli Municipal Office",
+            "duration": "2020-2021",
+            "budget": "$0",
+            "description": "Bachelor of Engineering in Environmental Engineering, Thesis: Proposal of a remediation plan for the Venice Lagoon, Condega, Esteli, Nicaragua.",
+            "objectives": [
+                "Project formulation and funding search in collaboration with the municipal government.",
+                "Water monitoring and physicochemical laboratory analysis of water, soil, and sediments.",
+                "In-field data collection to develop the “Nutrient Delivery Ratio” (NDR) and the “Environmental Quality” environmental prediction scenario models using the InVEST software.",
+                "Handmade bathymetry of Laguna de Venecia during the dry season of 2021.",
+                "Environmental education workshops for farm owners in the Venice lagoon micro-watershed."
+            ],
+            "keyOutputs": "Five Key"
         }
     ],
     "skills": {
         "technical": [
             {
                 "id": "skill-001",
-                "name": "Environmental Modeling",
+                "name": "Advanced Laboratory Techniques in Molecular Biology",
                 "tools": [
-                    "SWMM",
-                    "QUAL2K",
-                    "AERMOD",
-                    "WASP"
+                    "Fluorimeter",
+                    "Colorimeter",
+                    "Spectrophotometer",
+                    "Metagenomic analysis",
+                    "Nanopore Sequencer",
+                    "Pangenomic analysis (Panaroo)",
+                    "Spectrophotometer",
+                    "NanoDrop",
+                    "96-Well Multimode Microplate reader",
+                    "Thermocycler",
+                    "Real-Time Thermocycler",
+                    "10-L Laboratory Bioreactor / Fermenter"
                 ],
-                "description": "Expert in environmental modeling software for water quality, air dispersion, and watershed management. Specialized in predictive modeling for environmental impact assessments and regulatory compliance."
+                "description": ""
             },
             {
                 "id": "skill-002",
-                "name": "Water Treatment Design",
+                "name": "Advanced Laboratory Techniques in Microbiology",
                 "tools": [
-                    "Physical, Chemical, and Biological Processes"
+                    "Biological Safety Cabinet",
+                    "Incubator",
+                    "Autoclave",
+                    "Centrifuge",
+                    "Rotatory Evaporator",
+                    "10-L Laboratory Bioreactor / Fermenter",
+                    "Biosafety Protocols"
                 ],
-                "description": "Comprehensive expertise in designing water and wastewater treatment systems, including conventional and advanced treatment technologies. Experience with membrane processes, biological treatment, and disinfection systems."
+                "description": ""
             },
             {
                 "id": "skill-003",
-                "name": "GIS & Remote Sensing",
+                "name": "Advanced Laboratory Techniques in Chemistry",
                 "tools": [
-                    "ArcGIS",
-                    "QGIS",
-                    "Google Earth Engine"
+                    "High-Performance Liquid Chromatography (HPLC)",
+                    "Liquid Chromatography–Tandem Mass Spectrometry (LC-MS/MS)",
+                    "Gas Chromatography–Mass Spectrometry (GC-MS)",
+                    "Fluorimeter",
+                    "Colorimeter,",
+                    "Spectrophotometer"
                 ],
-                "description": "Proficient in geographic information systems and remote sensing for environmental analysis, land use planning, and natural resource management. Skilled in spatial data analysis and cartographic production."
+                "description": ""
             },
             {
                 "id": "skill-004",
-                "name": "Data Analysis",
+                "name": "Environmental and Industrial Biotechnology",
+                "tools": [
+                    "Advanced Laboratory Techniques in Molecular Biology and Microbiology",
+                    "Design of Aerobic and Anaerobic Bioreactors",
+                    "Industrial Biotechnology Efficiency Management",
+                    "Environmental Microbiology",
+                    "Metagenomic and Genomic Analysis."
+                ],
+                "description": ""
+            },
+            {
+                "id": "skill-005",
+                "name": "Water and Wastewater Treatment.",
+                "tools": [
+                    "Laboratory Techniques in Molecular Biology, Microbiology, and Chemistry",
+                    "Physical chemical precesses for water quality control",
+                    "Environmental Biotechnology",
+                    "Environmental Organic Chemistry",
+                    "Design of Aerobic and Anaerobic Bioreactors for wastewater treatment"
+                ],
+                "description": "Extensive knowledge of environmental regulations and compliance frameworks. Expert in ISO 14001 environmental management systems, NEPA documentation, and regulatory permitting processes."
+            },
+            {
+                "id": "skill-006",
+                "name": "Water Resources Management.",
+                "tools": [
+                    "Vulnerability Analysis",
+                    "Adaptation Planning"
+                ],
+                "description": "Specialized in climate change vulnerability assessments and adaptation planning. Experience in developing climate resilience strategies for infrastructure and communities."
+            },
+                        {
+                "id": "skill-007",
+                "name": "Environmental Modeling and Analysis.",
                 "tools": [
                     "R",
                     "Python",
@@ -290,8 +394,8 @@
                 "description": "Advanced skills in statistical analysis, data visualization, and environmental data science. Experience with machine learning applications in environmental monitoring and predictive modeling."
             },
             {
-                "id": "skill-005",
-                "name": "Environmental Compliance",
+                "id": "skill-008",
+                "name": "Environmental Impact Assessment and Disaster Risk Management.",
                 "tools": [
                     "ISO 14001",
                     "NEPA",
@@ -300,8 +404,8 @@
                 "description": "Extensive knowledge of environmental regulations and compliance frameworks. Expert in ISO 14001 environmental management systems, NEPA documentation, and regulatory permitting processes."
             },
             {
-                "id": "skill-006",
-                "name": "Climate Change Assessment",
+                "id": "skill-009",
+                "name": "Soil and Sediment Bioremediation",
                 "tools": [
                     "Vulnerability Analysis",
                     "Adaptation Planning"
@@ -338,7 +442,7 @@
             },
             {
                 "name": "English",
-                "level": "Fluent"
+                "level": "Fluent (C2 proficiency)"
             },
             {
                 "name": "Portuguese",

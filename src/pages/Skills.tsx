@@ -10,7 +10,7 @@ import data from '../data/data.json'
 interface SkillItem {
     id: string
     name: string
-    tools: string[]
+    tools?: string[]
     description: string
 }
 
@@ -55,7 +55,10 @@ export default function Skills() {
                                 style={{ cursor: 'pointer' }}
                             >
                                 <h3 className={styles.skillName}>{skill.name}</h3>
-                                <p className={styles.skillDetails}>{skill.tools.join(', ')}</p>
+                                <p className={styles.skillDetails}>
+                                    {(skill.tools ?? []).join(', ')}
+                                </p>
+
                                 <p className={styles.clickHint}>Click for details...</p>
                             </div>
                         ))}
@@ -102,7 +105,7 @@ export default function Skills() {
                         <div className={modalStyles.modalSection}>
                             <h3 className={modalStyles.modalsectionTitleResearchProject}>Tools & Technologies</h3>
                             <div className={modalStyles.skillTags}>
-                                {selectedSkill.tools.map((tool, idx) => (
+                                {selectedSkill.tools?.map((tool, idx) => (
                                     <span key={idx} className={modalStyles.skillTag}>{tool}</span>
                                 ))}
                             </div>

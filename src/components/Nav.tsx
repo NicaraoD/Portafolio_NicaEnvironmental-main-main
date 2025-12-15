@@ -6,10 +6,12 @@ import { GiMicroscope, GiBrain } from "react-icons/gi"
 import { IoIosMail } from "react-icons/io"
 import { Link, useLocation } from 'react-router-dom'
 import styles from '../styles/Nav.module.css'
+import ServiceComponent from './nav-menu/ServiceComponent'
 
 export default function NavComponent() {
   const navId = useId()
   const [isMenuOpen, setIsMenuOpen] = useState(false)
+  const [isHovered, setIsHovered] = useState(false);
   const location = useLocation()
 
   const toggleMenu = () => {
@@ -28,6 +30,7 @@ export default function NavComponent() {
           onClick={toggleMenu}
           aria-label="Toggle navigation menu"
         >
+          <span></span>
           <span></span>
           <span></span>
           <span></span>
@@ -62,6 +65,22 @@ export default function NavComponent() {
           <GiBrain className={styles.navIcon} size={32} color='#00123a' />
           <span className={styles.navLink}>Skills</span>
         </Link>
+
+        <div
+          onMouseEnter={() => setIsHovered(true)}
+          onMouseLeave={() => setIsHovered(false)}
+          className={`${styles.navServiceContainer} ${isActive('/services')}`}
+        >
+          <div className={styles.buttonServiceContainer}>
+            <Link to="/services" className={`${styles.navItem} ${isActive('/services')}`}>
+              <IoIosMail className={styles.navIcon} size={32} color='#00123a' />
+              <span className={styles.navLink}>Services</span>
+            </Link>
+          </div>
+          <div className={styles.serviceOptions}>
+            <ServiceComponent />
+          </div>
+        </div>
 
         <Link to="/contact" className={`${styles.navItem} ${isActive('/contact')}`}>
           <IoIosMail className={styles.navIcon} size={32} color='#00123a' />

@@ -11,9 +11,7 @@ export default function Education() {
     <PageLayout>
       <div className={styles.contentWrapper}>
         <h1 className={styles.pageTitle}>Education & Qualifications</h1>
-        <p className={styles.pageSubtitle}>
-          Academic background and professional certifications in Environmental Engineering
-        </p>
+      
 
         <div className={styles.educationTimeline}>
           {educationData.map((edu, index) => {

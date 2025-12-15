@@ -1,5 +1,3 @@
-
-
 .navigationBar {
     background-color: var(--accent-white, #ffffff);
     position: sticky;
@@ -85,6 +83,27 @@
     position: relative;
     z-index: 1;
     white-space: nowrap;
+}
+
+.navServiceContainer {
+    position: relative;
+}
+
+.buttonServiceContainer {}
+
+.serviceOptions {
+    background-color: #fff;
+    position: absolute;
+    top: 75px;
+
+    width: 250px;
+    height: auto;
+    display: none;
+    gap: 1rem;
+    border-bottom: 1px solid #adacac;
+    border-right: 1px solid #adacac;
+    border-left: 1px solx 10px 10px;
+    z-index: 10;
 }
 
 .navItem:hover .navLink {

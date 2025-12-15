@@ -73,10 +73,10 @@ export default function Contact() {
         <div className={styles.contactLayout}>
           {/* Información de contacto */}
           <div className={styles.contactInfo}>
-            <h2 className={styles.sectionTitle}>Get in Touch</h2>
+            <h2 className={styles.sectionTitle}>Connect with me</h2>
             <p className={styles.contactDescription}>
               I'm always interested in new opportunities, collaborations, and discussions about
-              environmental engineering solutions. Feel free to reach out!
+              environmental engineering science. Feel free to reach out!
             </p>
 
             <div className={styles.contactDetails}>

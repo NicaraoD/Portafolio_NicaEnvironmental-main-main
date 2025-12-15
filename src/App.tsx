@@ -8,6 +8,7 @@ import ResearchProjects from './pages/ResearchProjects';
 import Skills from './pages/Skills';
 import Contact from './pages/Contact';
 import ScrollToTop from './components/ScrollToTop';
+import Services from './pages/Services';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/research-projects" element={<ResearchProjects />} />
         <Route path="/skills" element={<Skills />} />
         <Route path="/skills/:skillId" element={<Skills />} />
+        <Route path="/services" element={<Services />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
     </Router>
