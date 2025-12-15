@@ -363,7 +363,7 @@
             },
             {
                 "id": "skill-005",
-                "name": "Water and Wastewater Treatment.",
+                "name": "Water and Wastewater Treatment",
                 "tools": [
                     "Laboratory Techniques in Molecular Biology, Microbiology, and Chemistry",
                     "Physical chemical precesses for water quality control",
@@ -371,46 +371,46 @@
                     "Environmental Organic Chemistry",
                     "Design of Aerobic and Anaerobic Bioreactors for wastewater treatment"
                 ],
-                "description": "Extensive knowledge of environmental regulations and compliance frameworks. Expert in ISO 14001 environmental management systems, NEPA documentation, and regulatory permitting processes."
+                "description": ""
             },
             {
                 "id": "skill-006",
-                "name": "Water Resources Management.",
+                "name": "Soil and Sediment Bioremediation",
                 "tools": [
                     "Vulnerability Analysis",
                     "Adaptation Planning"
                 ],
-                "description": "Specialized in climate change vulnerability assessments and adaptation planning. Experience in developing climate resilience strategies for infrastructure and communities."
+                "description": ""
             },
                         {
                 "id": "skill-007",
-                "name": "Environmental Modeling and Analysis.",
+                "name": "Environmental Modeling and Analysis",
                 "tools": [
                     "R",
                     "Python",
                     "MATLAB",
                     "Statistical Modeling"
                 ],
-                "description": "Advanced skills in statistical analysis, data visualization, and environmental data science. Experience with machine learning applications in environmental monitoring and predictive modeling."
+                "description": ""
             },
             {
                 "id": "skill-008",
-                "name": "Environmental Impact Assessment and Disaster Risk Management.",
+                "name": "Environmental Impact Assessment and Disaster Risk Management",
                 "tools": [
                     "ISO 14001",
                     "NEPA",
                     "Environmental Permitting"
                 ],
-                "description": "Extensive knowledge of environmental regulations and compliance frameworks. Expert in ISO 14001 environmental management systems, NEPA documentation, and regulatory permitting processes."
+                "description": ""
             },
             {
                 "id": "skill-009",
-                "name": "Soil and Sediment Bioremediation",
+                "name": " Water Resources Management",
                 "tools": [
                     "Vulnerability Analysis",
                     "Adaptation Planning"
                 ],
-                "description": "Specialized in climate change vulnerability assessments and adaptation planning. Experience in developing climate resilience strategies for infrastructure and communities."
+                "description": ""
             }
         ],
         "competencies": [
