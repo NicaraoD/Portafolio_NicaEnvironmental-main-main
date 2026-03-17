@@ -7,7 +7,7 @@ import bioreactor from '../../public/bioreactor.png'
 import biotechologies from '../../public/biotechnology.png'
 import styles from '../styles/Header.module.css'
 import credentialsData from '../data/data.json'
-import Water_drop from  '../../public/Water_drop.png'
+import Water_drop from '../../public/Water_drop.png'
 export default function Header() {
   const headerId = useId()
   const credentialsId = useId()
@@ -28,8 +28,8 @@ export default function Header() {
     'images.png': foto2,
     'lake.png': lake,
     'bioreactor.png': bioreactor,
-    'biotechologies.png':biotechologies,
-    'Water_drop.png' :Water_drop,
+    'biotechologies.png': biotechologies,
+    'Water_drop.png': Water_drop,
 
   }
 
@@ -50,7 +50,7 @@ export default function Header() {
   }, [credentials.length])
 
   useEffect(() => {
-    
+
     const initialTimeout = setTimeout(() => {
       setIsAnimatingTagline(true)
       setTimeout(() => {
@@ -117,6 +117,12 @@ export default function Header() {
           src={foto1}
           alt="Professional Profile"
         />
+      </div>
+      <div className={styles.language}>
+        <select id="language">
+          <option value="volvo">Spanish</option>
+          <option value="saab">English</option>
+        </select>
       </div>
     </header>
   )
