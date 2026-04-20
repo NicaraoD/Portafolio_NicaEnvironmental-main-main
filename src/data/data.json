@@ -20,7 +20,7 @@
         },
         {
             "id": 4,
-            "degree": "Design of Aerobic and Anaerobic Bioreactors",
+            "degree": "Aerobic and Anaerobic Bioreactors",
             "institution": "Rice University",
             "logo": "bioreactor.png"
         },
@@ -54,7 +54,7 @@
             "id": 1,
             "degree": "Doctor of Philosophy in Environmental Engineering and Science",
             "field": "Industrial Biotechnology",
-            "fieldStatus": "Program discontinued / NIH Research funding discontinued",
+            "fieldStatus": "Not Complete (81 Credits)",
             "institution": "Rice University",
             "location": "Houston, TX, USA",
             "duration": "2022 - 2025",
@@ -103,7 +103,7 @@
     "experience": [
         {
             "id": "Experience_1",
-            "title": "Environmental Biotechnology Teaching Assistant",
+            "title": "Environmental Biotechnology (CEVE 536) Teaching Assistant",
             "duration": "2024 - 2025",
             "company": "Rice University",
             "location": "Houston, Texas, USA",
@@ -129,7 +129,7 @@
         },
         {
             "id": "Experience_2",
-            "title": "Research Intern",
+            "title": "Research Assistant",
             "duration": "2021 - 2022",
             "company": "Molecular Biology Center / Central American University",
             "location": "Managua, Nicaragua",
@@ -156,7 +156,7 @@
         },
         {
             "id": "Experience_3",
-            "title": "Intern",
+            "title": "Project Manager",
             "duration": "2020 - 2021",
             "company": "Inter-Ecclesial Center for Theological and Social Studies (CIEETS)",
             "location": "Managua, Nicaragua",
