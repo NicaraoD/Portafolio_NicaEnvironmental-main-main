@@ -13,21 +13,21 @@ export default function Hero() {
       <div className={styles.profileCardsWrapper}>
         <HeroCard
           title='Professional Profile'
-          p1="Environmental Engineer specialized in environmental biotechnology, applied microbiology, and water treatment systems. Experienced in water resource management, microbial characterization, and applied laboratory techniques, with interest in producing sustainable biotechnology solutions for uncertain socio-economic environments."
+          p1="Environmental engineer specialized in environmental biotechnology, water treatment systems, and applied microbiology. Experienced in water resource management, microbial characterization, and applied laboratory techniques, with interest in producing sustainable biotechnology solutions for uncertain socio-economic environments."
           isReversed={false}
           img={Nicarao}
         />
 
         <HeroCard
           title='Research Experience'
-          p1="Research experience focused on developing an industrial bioprocess and a analytical method, designing bioreactors, and optimizing biotechnology processes."
+          p1="Research experience developing industrial bioprocesses and analytical methods, including bioreactor design and process optimization, integrating microbial characterization and field-based water quality assessment across laboratory and environmental systems."
           isReversed={true}
           img={Labpic}
         />
 
         <HeroCard
           title='Engineering for Environmental Challenges'
-          p1="I approach environmental challenges by designing and developing cost-effective, scalable solutions for water and environmental systems, particularly in contexts affecting vulnerable communities and critical economic activities. My work integrates technical analysis with practical implementation to deliver solutions that are both effective and adaptable."
+          p1="Environmental challenges are addressed by designing and developing cost-effective, scalable solutions for water and environmental systems, particularly in contexts affecting vulnerable communities and critical economic activities. The approach integrates technical analysis with practical implementation to deliver effective and adaptable solutions."
           isReversed={false}
           img={Rice}
         />
