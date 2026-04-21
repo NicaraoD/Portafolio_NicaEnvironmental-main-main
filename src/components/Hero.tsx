@@ -13,21 +13,21 @@ export default function Hero() {
       <div className={styles.profileCardsWrapper}>
         <HeroCard
           title='Professional Profile'
-          p1="Engineer specialized in designing sustainable socio-economic solutions that preserve natural resources, foster economic development, enhance public health, and improve the quality of life in diverse communities."
+          p1="Environmental Engineer specialized in environmental biotechnology, applied microbiology, and water treatment systems. Experienced in water resource management, microbial characterization, and applied laboratory techniques, with interest in producing sustainable biotechnology solutions for uncertain socio-economic environments."
           isReversed={false}
           img={Nicarao}
         />
 
         <HeroCard
           title='Research Experience'
-          p1="Research experience in biotechnology, water and wastewater treatment, environmental remediation, and water resources management."
+          p1="Research experience focused on developing an industrial bioprocess and a analytical method, designing bioreactors, and optimizing biotechnology processes."
           isReversed={true}
           img={Labpic}
         />
 
         <HeroCard
-          title='Creative Engineering'
-          p1="As a creative engineer, I aim to contribute innovative perspectives that support the development of cost-effective and scalable solutions to environmental challenges, particularly water-related issues affecting vulnerable communities and critical economic activities."
+          title='Engineering for Environmental Challenges'
+          p1="I approach environmental challenges by designing and developing cost-effective, scalable solutions for water and environmental systems, particularly in contexts affecting vulnerable communities and critical economic activities. My work integrates technical analysis with practical implementation to deliver solutions that are both effective and adaptable."
           isReversed={false}
           img={Rice}
         />
