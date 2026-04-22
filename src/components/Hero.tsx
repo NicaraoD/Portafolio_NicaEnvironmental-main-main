@@ -13,7 +13,7 @@ export default function Hero() {
       <div className={styles.profileCardsWrapper}>
         <HeroCard
           title='Professional Profile'
-          p1="Environmental engineer specialized in environmental biotechnology, water treatment systems, and applied microbiology. Experienced in water resource management, microbial characterization, and applied laboratory techniques, with interest in producing sustainable biotechnology solutions for uncertain socio-economic environments."
+          p1="Environmental engineer specialized in environmental biotechnology, applied microbiology, and water treatment systems. Experienced in water resource management, microbial characterization, and applied laboratory techniques, with interest in producing sustainable biotechnology solutions for uncertain socio-economic environments."
           isReversed={false}
           img={Nicarao}
         />
