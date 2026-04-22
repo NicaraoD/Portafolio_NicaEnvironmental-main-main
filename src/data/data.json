@@ -195,7 +195,7 @@
             "role": "Director of Science Communication in the NEWT Student and Postdoc Leadership Council",
             "duration": "2024 - 2025",
             "institution": "Nanotechnology-Enabled Water Treatment Institute (NEWT) | Rice University | Houston, TX, USA",
-            "description": "Director of Science Communication in the Student and Postdoc Leadership Council of the Nanotechnology-Enabled Water Treatment Institute (NEWT) during 2024-2025 and a Graduate Student fellow during 2022-2025.",
+            "description": "Director of Science Communication in the Student and Postdoc Leadership Council of the Nanotechnology-Enabled Water Treatment Institute (NEWT) during the 2024-2025 academic year and a Graduate Student fellow during the 2022-2025 academic years.",
             "achievements": [
                 "NSF-Funded NEWT research associate from 2022-2025.",
                 "Created the graduate students research Highlight section in NEWT communications.",
@@ -217,84 +217,78 @@
     "researchProjects": [
         {
             "title": "Novel extremophiles produce extremolyte cocktails that enhance industrially relevant in vitro bacterial growth as supplemental additives",
-            "status": "Industrial Biotechnology",
-            "funding": "National Institute of Health / Rice University",
+            "status": "Environmental and Industrial Biotechnology",
+            "funding": "Rice Water Technologies Entrepreneurship and Research Institute | Rice University",
             "duration": "2024-2025",
             "budget": "$0",
-            "description": "Doctor of Philosophy in Environmental Engineering and Science, Main Project: Novel extremophiles produce extremolyte cocktails that enhance industrially relevant in vitro bacterial growth as supplemental additives.",
+            "description": "Main Project to obtain the title of Doctor of Philosophy in Environmental Engineering and Science.",
             "objectives": [
-                "Enrichment and isolation of extremophilic bacteria from soil and wastewater samples.",
-                "DNA extraction, 16S rRNA gene Sanger sequencing, and whole-genome nanopore sequencing.",
-                "Genomic and pangenomic analysis of isolates and the identification of mutations in target genes.",
-                "Phylogenetic identification and classification of isolates with extremolyte production potential.",
-                "Application of culture-produced, non-purified extremolyte cocktails as growth additives in industrial bacterial culture media to enhance bacterial growth.",
-                "Metabolomic analysis to quantify the extremolytes produced by each extremophile in the culture medium.",
-                "Design and modification of culture media and growth conditions to optimize the growth of target extremophiles and their extremolyte extracellular production using a 96-well microplate reader.",
-                "Use of extremolyte cocktails to stimulate the growth of bacterias with industrial applications, including Zymomonas mobilis, Pseudomonas putida, Bacillus subtilis, B. amyloliquefaciens, and B. licheniformis."
+                "Isolated extremophilic bacteria from soil and wastewater.",
+                "Identified the isolates using 16S rRNA Sanger sequencing.",
+                "Characterized the isolates and their mutations using whole-genome Nanopore sequencing.",
+                "Quantified the extremolyte production with metabolomic analysis.",
+                "Identified novel strains of Alkalicoccobacillus and Nesterenkonia that produce extremolytes.",
+                "Demonstrated that extremolyte cocktails enhanced the growth of microorganisms used in industrial bioprocesses, including Zymomonas mobilis, Pseudomonas putida, and Bacillus spp."
             ]
-          
+
         },
         {
-            "title": "Design of a scalable industrial process for ectoine bioproduction",
+            "title": "Development of an industrial bioprocess for ectoine bioproduction",
             "status": "Industrial Biotechnology",
-            "funding": "National Institute of Health / Rice University",
+            "funding": "Nanotechnology-Enabled Water Treatment Institute | Rice University",
             "duration": "2024-2025",
             "budget": "$0",
-            "description": "Doctor of Philosophy in Environmental Engineering and Science, Main Project: Design of a scalable industrial process for ectoine bioproduction.",
+            "description": "Main Project to obtain the title of Doctor of Philosophy in Environmental Engineering and Science.",
             "objectives": [
-                "Reactivation and enrichment of ectoine-producing bacteria from the NRRL culture collection.",
-                "Development of HPLC and LC-MS/MS methods for the detection of ectoine and hydroxyectoine.",
-                "Optimization of ectoine and hydroxyectoine bioproduction in high-efficiency extremophyle producers.",
-                "Laboratory-scale extracellular ectoine production in a 10-L bioreactor/fermenter.",
-                "Design of a low-energy method for purification of ectoine and hydroxyectoine."
+                "Modified HPLC and LC-MS/MS analytical methods for the detection of ectoine and hydroxyectoine.",
+                "Optimized intracellular and extracellular ectoine production in extremophilic bacteria.",
+                "Achieved laboratory-scale extracellular production in a 10-L bioreactor.",
+                "Designed a low-energy purification strategy for ectoine and hydroxyectoine recovery."
             ],
             "keyOutputs": "Two key"
         },
         {
-            "title": "Development of a rapid and portable analytical method for in-field detection of Fusobacterium necrophorum in cattle ruminal samples.",
-            "status": "Molecular Biology",
-            "funding": "Nanotechnology-Enabled Water Treatment Institute (NEWT) / Rice University",
+            "title": "Development of a rapid and portable analytical method for in-field detection of Fusobacterium necrophorum in cattle ruminal samples",
+            "status": "Molecular Biology and Applied Microbiology",
+            "funding": "Nanotechnology-Enabled Water Treatment Institute | Rice University",
             "duration": "2023-2024",
             "budget": "$0",
-            "description": "Master of Science in Environmental Engineering and Science, Thesis: Development of a rapid and portable analytical method for in-field detection of Fusobacterium necrophorum in cattle ruminal samples.",
+            "description": "Thesis to obtain the title of Master of Science in Environmental Engineering and Science.",
             "objectives": [
-                "Adaptation of in-situ DNA extraction techniques, such as direct DNA elution, magnetic beads, and dipstick methods, for F. necrophorum DNA extraction.",
-                "Amplification of F. necrophorum DNA in cattle rumen fluid samples using PCR, LAMP, and qLAMP to establish standard results for comparison.",
-                "Adaptation of the open-source colorimeter (manufactured by IO RODEO) for real-time qLAMP measurements with spectrometric and fluorometric readings.",
-                "Design of an incubation chamber for metal machining and modification of the CircuitPython software to continuously record measurements during the LAMP incubation.",
-                "Development of a method for quantitative estimation of amplified DNA using qLAMP with real-time spectrometric and fluorometric readings from the modified equipment."
+                "Developed a field-compatible DNA extraction method for cattle rumen samples using dipstick, magnetic bead, and direct elution techniques.",
+                "Conducted PCR, qPCR, LAMP, and qLAMP assays to standardize the detection of F. necrophorum.",
+                "Adapted an open-source colorimeter for real-time spectrometric and fluorometric detection of DNA amplification.",
+                "Designed an analytical method for quantitative DNA detection in field conditions for F. necrophorum."
             ],
             "keyOutputs": "Three key"
         },
         {
             "title": "Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua",
-            "status": "Molecular Biology",
-            "funding": "Molecular Biology Center / Central American University",
+            "status": "Environmental Monitoring",
+            "funding": "Molecular Biology Center | Central American University",
             "duration": "2021-2022",
             "budget": "$0",
-            "description": "Participation in research during internship in Molecular Biology Center at Central American University. Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua, published in the Brazilian Journal of Biology (2024).",
+            "description": "Research participation in the Molecular Biology Center at Central American University.",
             "objectives": [
-                "Project review and formulation.",
-                "In-situ water sampling, isolation of Gram-negative bacteria, and DNA extraction.",
-                "Identification of isolates using API biochemical tests and 16S rRNA gene amplification.",
-                "Sanger sequencing of extended-spectrum β-lactamase antibiotic resistance genes.",
-                "Identification of potential contamination sources and data analysis."
+                "Conducted environmental water sampling and microbiological isolation of gram-negative bacteria.",
+                "Performed 16S rRNA PCR amplification and molecular identification of environmental isolates.",
+                "Analyzed extended-spectrum β-lactamase (ESBL) genes using Sanger sequencing.",
+                "Contributed to a peer-reviewed publication in the Brazilian Journal of Biology (2024)."
             ],
             "keyOutputs": "Four key"
         },
         {
             "title": "Proposal of a remediation plan for the Venice Lagoon, Condega, Esteli, Nicaragua.",
             "status": "Water Resource Management",
-            "funding": "Central American University / Condega, Esteli Municipal Office",
+            "funding": "Central American University | Condega Municipal Goverment",
             "duration": "2020-2021",
             "budget": "$0",
-            "description": "Bachelor of Engineering in Environmental Engineering, Thesis: Proposal of a remediation plan for the Venice Lagoon, Condega, Esteli, Nicaragua.",
+            "description": "Thesis to obtain the title of Bachelor of Engineering in Environmental Engineering.",
             "objectives": [
-                "Project formulation and funding search in collaboration with the municipal government.",
-                "Water monitoring and physicochemical laboratory analysis of water, soil, and sediments.",
-                "In-field data collection to develop the “Nutrient Delivery Ratio” (NDR) and the “Environmental Quality” environmental prediction scenario models using the InVEST software.",
-                "Handmade bathymetry of Laguna de Venecia during the dry season of 2021.",
-                "Environmental education workshops for farm owners in the Venice lagoon micro-watershed."
+                "Conducted water quality monitoring and physicochemical analysis of water, soil, and sediment samples.",
+                "Performed a bathymetry using manual measurement methods during the dry season of 2021.",
+                "Applied the InVEST environmental models to evaluate the nitrogen and phosphorus delivery ratio from the basin into the lagoon and the ecosystem quality of the basin.",
+                "Developed a remediation strategy for lagoon restoration in collaboration with municipal authorities."
             ],
             "keyOutputs": "Five Key"
         }
