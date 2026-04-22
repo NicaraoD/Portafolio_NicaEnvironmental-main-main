@@ -112,17 +112,20 @@
                 "Assisted instruction and guidance for graduate students in microbial kinetics concepts, bioreactor design methods, and environmental biotechnology applications in wastewater treatment.",
                 "Provided technical mentoring and problem-solving support during coursework and office hour sessions."
             ],
-            "detailedDescription": "Teaching assistant for the Civil and Environmental Engineering Department of the George R. Brown School of Engineering at Rice University for a graduate level course of environmental biotechnology (CEVE 536), focused in environmental biotechnology wastewater treatment applications and bioreactor design. Teaching Assistant during fall semester 2024 and 2025.",
+            "detailedDescription": "Teaching assistant for the Civil and Environmental Engineering Department of the George R. Brown School of Engineering at Rice University for a graduate-level course of environmental biotechnology (CEVE 536) during fall semesters of 2024 and 2025, focused on environmental biotechnology wastewater treatment applications and bioreactor design.",
             "achievements": [
-                "Student satisfaction rating: 4.9/5.0.",
-                "Student average grade for the course is 'A'."
+                "Mentored graduate students in advanced environmental biotechnology and bioreactor engineering concepts.",
+                "Strengthened student understanding of microbial kinetics modeling and wastewater treatment process design.",
+                "Supported academic and technical project development through one-on-one mentoring sessions."
             ],
             "skills": [
                 "Environmental Biotechnology",
-                "Wastewater Treatment Technologies",
-                "Design of Aerobic and Anaerobic Bioreactors",
-                "Graduate Students Tutoring",
-                "Assigment Grading"
+                "Microbial Kinetics Modeling",
+                "Wastewater Treatment Process Design",
+                "Aerobic and Anaerobic Treatment Systems",
+                "Environmental Bioremediation",
+                "Graduate-Level Technical Instruction",
+                "Technical Problem Solving"
             ]
         },
         {
@@ -139,15 +142,17 @@
             ],
             "detailedDescription": "Contribution to Research Project: Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua, published in the Brazilian Journal of Biology (2024).",
             "achievements": [
-                "Delivered a innovative research project that was the first of its kind in the region.",
-                "Molecular Characterization of Extended-spectrum β-lactamases genes in Gram-negative bacterias in a contaminated river in Tipitapa, Managua, Nicaragua."
+                "Contributed to a pioneering regional study on ESBL-producing Gram-negative bacteria in an urban river system.",
+                "Generated actionable environmental health insights through field sampling and microbiological analysis."
             ],
             "skills": [
                 "Research Project Formulation",
-                "Microbiology",
-                "Molecular Biology",
-                "Bacterial Genetic Analysis",
-                "Environmental Monitoring"
+                "Environmental Microbiology",
+                "Microbial Isolation & Culturing",
+                "Molecular Biology Techniques",
+                "Antimicrobial Resistance Research",
+                "Bacterial Genetic Characterization",
+                "Environmental Sampling and Monitoring"
             ]
         },
         {
@@ -167,15 +172,18 @@
             ],
             "detailedDescription": "As a project manager in CIEETS I formulated and managed two projects related to climate adaptation and sustainable agriculture in Nicaragua’s Dry Corridor and the rapid disaster response to ETA & IOTA hurricanes in Northern Nicaragua.",
             "achievements": [
-                "Secured funding for rapid response initiatives in rural communities after hurricanes ETA and IOTA",
-                "Supported rural communities food and water security post-hurricane"
+                "Secured and managed funding for rapid disaster-response initiatives in rural communities after Hurricanes ETA and IOTA.",
+                "Improved water and food security for vulnerable communities through emergency aid distribution and agricultural support.",
+                "Led multi-stakeholder coordination across communities, local leaders, and partner organizations."
             ],
             "skills": [
-                "Project Formulation",
-                "Coordination and Logistics",
-                "Environmental Education Workshops",
-                "Disaster Response",
-                "Climate Change Adaptation"
+                "Project Formulation & Management",
+                "Disaster Response Coordination",
+                "Water Security Planning",
+                "Climate Change Adaptation",
+                "Sustainable Agriculture Strategies",
+                "Logistics & Resource Distribution",
+                "Environmental Education & Training",
             ]
         }
     ],
@@ -221,11 +229,11 @@
             "funding": "Rice Water Technologies Entrepreneurship and Research Institute | Rice University",
             "duration": "2024-2025",
             "budget": "$0",
-            "description": "Main Project to obtain the title of Doctor of Philosophy in Environmental Engineering and Science.",
+            "description": "Doctoral research focused on isolating and characterizing extremophilic bacteria capable of producing extremolytes, and evaluating their application as growth-enhancing additives for industrially relevant microorganisms.",
             "objectives": [
                 "Isolated extremophilic bacteria from soil and wastewater.",
-                "Identified the isolates using 16S rRNA Sanger sequencing.",
-                "Characterized the isolates and their mutations using whole-genome Nanopore sequencing.",
+                "Identified bacterial isolates through 16S rRNA gene sequencing.",
+                "Performed whole-genome Nanopore sequencing to characterize novel isolates and genetic adaptations.",
                 "Quantified the extremolyte production with metabolomic analysis.",
                 "Identified novel strains of Alkalicoccobacillus and Nesterenkonia that produce extremolytes.",
                 "Demonstrated that extremolyte cocktails enhanced the growth of microorganisms used in industrial bioprocesses, including Zymomonas mobilis, Pseudomonas putida, and Bacillus spp."
@@ -238,11 +246,11 @@
             "funding": "Nanotechnology-Enabled Water Treatment Institute | Rice University",
             "duration": "2024-2025",
             "budget": "$0",
-            "description": "Project to obtain the title of Doctor of Philosophy in Environmental Engineering and Science.",
+            "description": "Doctoral research focused on developing and optimizing an industrial bioprocess for sustainable ectoine and hydroxyectoine production, including upstream cultivation, analytical quantification, and downstream purification.",
             "objectives": [
                 "Modified HPLC and LC-MS/MS analytical methods for the detection of ectoine and hydroxyectoine.",
                 "Optimized intracellular and extracellular ectoine production in extremophilic bacteria.",
-                "Achieved laboratory-scale extracellular production in a 10-L bioreactor.",
+                "Demonstrated extracellular ectoine production at laboratory scale in a 10-L bioreactor.",
                 "Designed a low-energy purification strategy for ectoine and hydroxyectoine recovery."
             ],
             "keyOutputs": "Two key"
@@ -253,7 +261,7 @@
             "funding": "Nanotechnology-Enabled Water Treatment Institute | Rice University",
             "duration": "2023-2024",
             "budget": "$0",
-            "description": "Thesis to obtain the title of Master of Science in Environmental Engineering and Science.",
+            "description": "Master’s thesis research focused on developing a rapid, portable, and field-compatible molecular detection method for Fusobacterium necrophorum in cattle ruminal samples.",
             "objectives": [
                 "Developed a field-compatible DNA extraction method for cattle rumen samples using dipstick, magnetic bead, and direct elution techniques.",
                 "Conducted PCR, qPCR, LAMP, and qLAMP assays to standardize the detection of F. necrophorum.",
@@ -268,7 +276,7 @@
             "funding": "Molecular Biology Center | Central American University",
             "duration": "2021-2022",
             "budget": "$0",
-            "description": "Research participation in the Molecular Biology Center at Central American University.",
+            "description": "Research project focused on environmental monitoring and molecular characterization of antimicrobial resistance genes in Gram-negative bacteria isolated from Tipitapa River in Managua, Nicaragua",
             "objectives": [
                 "Conducted environmental water sampling and microbiological isolation of gram-negative bacteria.",
                 "Performed 16S rRNA PCR amplification and molecular identification of environmental isolates.",
@@ -278,12 +286,12 @@
             "keyOutputs": "Four key"
         },
         {
-            "title": "Proposal of a remediation plan for the Venice Lagoon, Condega, Esteli, Nicaragua.",
+            "title": "Remediation Plan for Venice Lagoon in Condega, Estelí, Nicaragua",
             "status": "Water Resource Management",
             "funding": "Central American University | Condega Municipal Goverment",
             "duration": "2020-2021",
             "budget": "$0",
-            "description": "Thesis to obtain the title of Bachelor of Engineering in Environmental Engineering.",
+            "description": "Bachelor’s thesis focused on assessing water quality, watershed nutrient loading, and ecosystem health to design a remediation and restoration strategy for Venice Lagoon.",
             "objectives": [
                 "Conducted water quality monitoring and physicochemical analysis of water, soil, and sediment samples.",
                 "Performed a bathymetry using manual measurement methods during the dry season of 2021.",
