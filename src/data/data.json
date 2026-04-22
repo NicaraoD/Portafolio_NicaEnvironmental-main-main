@@ -103,55 +103,50 @@
     "experience": [
         {
             "id": "Experience_1",
-            "title": "Environmental Biotechnology (CEVE 536) Teaching Assistant",
+            "title": "Teaching Assistant of Environmental Biotechnology (CEVE 536)",
             "duration": "2024 - 2025",
             "company": "Rice University",
             "location": "Houston, Texas, USA",
             "responsibilities": [
-                "Graduate students tutoring and follow up with assigments.",
-                "Grading Quizes and Homeworks while providing solid feedback.",
-                "Review Lectures with Graduate students and clarify every question.",
-                "Availability to answer any email inquiry from the graduate students, providing online support.",
-                "Personalized tutoring for every graduate student to match their pace and needs."
+                "Assisted instruction and guidance for graduate students in microbial kinetics concepts, bioreactor design methods, and environmental biotechnology applications in wastewater treatment.",
+                "Provided technical mentoring and problem-solving support during coursework and office hour sessions."
             ],
-            "detailedDescription": "Teaching assistant for the civil and environmental engineering department of Rice University for a graduate level course of environmental biotechnology, focused in wastewater treatment applications and bioreactor design during fall semester 2024 and 2025.",
+            "detailedDescription": "Teaching assistant for the Civil and Environmental Engineering Department of the George R. Brown School of Engineering at Rice University for a graduate level course of environmental biotechnology (CEVE 536), focused in environmental biotechnology wastewater treatment applications and bioreactor design. Teaching Assistant during fall semester 2024 and 2025.",
             "achievements": [
                 "Student satisfaction rating: 4.9/5.0.",
                 "Student average grade for the course is 'A'."
             ],
             "skills": [
                 "Environmental Biotechnology",
+                "Wastewater Treatment Technologies",
                 "Design of Aerobic and Anaerobic Bioreactors",
                 "Graduate Students Tutoring",
-                "Assigment Grading",
-                "Teaching"
+                "Assigment Grading"
             ]
         },
         {
             "id": "Experience_2",
             "title": "Research Assistant",
             "duration": "2021 - 2022",
-            "company": "Molecular Biology Center / Central American University",
+            "company": "Molecular Biology Center | Central American University",
             "location": "Managua, Nicaragua",
             "responsibilities": [
-                "Project formulation and review.",
-                "In-situ water sampling, isolation of Gram-negative bacteria, and DNA extraction.",
-                "Identification of isolates using API biochemical tests and 16S rRNA gene amplification.",
-                "Sanger sequencing of extended-spectrum β-lactamase antibiotic resistance genes.",
-                "Identification of potential contamination sources and data analysis."
+                "Conducted environmental water sampling and microbiological isolation of gram-negative bacteria.",
+                "Performed 16S rRNA PCR amplification and molecular identification of environmental isolates.",
+                "Analyzed extended-spectrum β-lactamase (ESBL) genes using Sanger sequencing.",
+                "Contributed to a peer-reviewed publication in the Brazilian Journal of Biology (2024)."
             ],
-            "detailedDescription": "Participation in research: Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua, published in the Brazilian Journal of Biology (2024).",
+            "detailedDescription": "Contribution to Research Project: Extended-spectrum β-lactamases genes in Gram-negative isolates from an urban river in Nicaragua, published in the Brazilian Journal of Biology (2024).",
             "achievements": [
                 "Delivered a innovative research project that was the first of its kind in the region.",
-                "Characterization of a river contaminated with Extended-spectrum β-lactamases genes in Gram-negative bacterias."
+                "Molecular Characterization of Extended-spectrum β-lactamases genes in Gram-negative bacterias in a contaminated river in Tipitapa, Managua, Nicaragua."
             ],
             "skills": [
-                "Microbiology",
                 "Research Project Formulation",
+                "Microbiology",
                 "Molecular Biology",
                 "Bacterial Genetic Analysis",
-                "PCR and Sanger Sequencing",
-                "Environmental Analysis"
+                "Environmental Monitoring"
             ]
         },
         {
@@ -161,21 +156,24 @@
             "company": "Inter-Ecclesial Center for Theological and Social Studies (CIEETS)",
             "location": "Managua, Nicaragua",
             "responsibilities": [
-                "Designed and formulated disaster response projects.",
-                "Supported rapid response initiatives in rural communities after hurricanes ETA and IOTA.",
-                "Led environmental education and risk management workshops in northern Nicaragua.",
-                "Supported climate change adaptation projects in rural communities."
+                "Formulated and Managed a rapid disaster response project following Hurricanes ETA and IOTA in rural communities in Condega, Esteli, and Totogalpa, Madriz.",
+                "Implemented community initiatives for risk-reduction and environmental resilience to disasters.",
+                "Trained community leaders in water purification methods and hydrosanitary risk reduction.",
+                "Coordinated emergency logistics and resource distribution to affected communities.",
+                "Implemented sustainable agriculture strategies for climate adaptation in agricultural systems.",
+                "Trained producers in La Conquista, Carazo, in agricultural sustainability and climate adaptation.",
+                "Coordinated logistics and distributed supplies to improve agricultural productivity and resilience."
             ],
-            "detailedDescription": "As an intern in CIEETS I formulated projects related to water security in rural communities affected by the hurricanes ETA and IOTA",
+            "detailedDescription": "As a project manager in CIEETS I formulated and managed two projects related to climate adaptation and sustainable agriculture in Nicaragua’s Dry Corridor and the rapid disaster response to ETA & IOTA hurricanes in Northern Nicaragua.",
             "achievements": [
                 "Secured funding for rapid response initiatives in rural communities after hurricanes ETA and IOTA",
                 "Supported rural communities food and water security post-hurricane"
             ],
             "skills": [
-                "Environmental Education",
-                "Workshop Planning",
                 "Project Formulation",
-                "Environmental Workshops",
+                "Coordination and Logistics",
+                "Environmental Education Workshops",
+                "Disaster Response",
                 "Climate Change Adaptation"
             ]
         }
