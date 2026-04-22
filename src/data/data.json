@@ -305,16 +305,16 @@
         "technical": [
             {
                 "id": "skill-001",
-                "name": "Environmental and Industrial Biotechnology",
+                "name": "Environmental & Industrial Biotechnology",
                 "tools": [
-                    "Bioprocess Development and Optimization",
-                    "Design of Aerobic and Anaerobic Bioreactors",
-                    "Industrial Fermentation Processes",
+                    "Industrial Bioprocess Development and Optimization",
+                    "Design and Scale-Up of Aerobic and Anaerobic Bioreactors",
+                    "Industrial Fermentation and Microbial Cultivation",
                     "Extremophile Isolation and Characterization",
                     "Extremolyte and Ectoine Bioproduction",
-                    "Microbial Growth Enhancement Strategies"
+                    "Microbial Growth Enhancement and Process Efficiency Strategies"
                 ],
-                "description": "Development and optimization of biotechnology-driven solutions for industrial and environmental applications."
+                "description": "Design and optimization of biotechnology-driven processes for industrial production and environmental applications."
             },
             {
                 "id": "skill-002",
@@ -323,24 +323,24 @@
                     "Polymerase Chain Reaction (PCR) and Quantitative PCR (qPCR)",
                     "Loop-Mediated Isothermal Amplification (LAMP and qLAMP)",
                     "16S rRNA Gene Identification",
-                    "DNA Extraction and Purification",
+                    "DNA Extraction, Purification, and Molecular Detection",
                     "Sanger DNA Sequencing",
                     "Whole-Genome Sequencing using Oxford Nanopore Technology",
                     "Metagenomic and Genomic Analysis"
                 ],
-                "description": "Microbial identification, molecular detection, and genomic characterization for environmental and industrial systems."
+                "description": "Advanced molecular detection, microbial identification, and genomic characterization for environmental and industrial systems."
             },
             {
                 "id": "skill-003",
                 "name": "Water & Wastewater Engineering",
                 "tools": [
-                    "Biological Wastewater Treatment Systems",
-                    "Activated Sludge Process Design",
+                    "Biological Wastewater Treatment Process Design",
+                    "Activated Sludge Process Design and Optimization",
                     "Physicochemical Processes for Water Quality Control",
-                    "Water Quality Monitoring and Analysis",
-                    "Hydrosanitary Risk Reduction Strategies"
+                    "Water Quality Monitoring and Physicochemical Analysis",
+                    "Hydrosanitary Risk Assessment and Reduction Strategies"
                 ],
-                "description": "Design and evaluation of water and wastewater treatment systems for environmental protection and community resilience."
+                "description": "Design, optimization, and evaluation of water and wastewater treatment systems for environmental protection and community resilience."
             },
             {
                 "id": "skill-004",
@@ -349,42 +349,40 @@
                     "High-Performance Liquid Chromatography (HPLC)",
                     "Liquid Chromatography–Tandem Mass Spectrometry (LC-MS/MS)",
                     "Gas Chromatography–Mass Spectrometry (GC-MS)",
-                    "Spectrophotometric Analysis",
-                    "Fluorometric Analysis",
-                    "Colorimetric Analysis",
+                    "Spectrophotometric, Fluorometric, and Colorimetric Analysis",
                     "Microplate Reader-Based Quantification"
                 ],
                 "description": "Analytical method development and metabolite quantification for biotechnology and environmental research."
             },
             {
                 "id": "skill-005",
-                "name": "Environmental Modeling & Water Resources",
+                "name": "Environmental Modeling & Water Resources Management",
                 "tools": [
                     "Geographic Information Systems (ArcGIS and QGIS)",
                     "Integrated Valuation of Ecosystem Services and Tradeoffs (InVEST)",
                     "Groundwater Modeling with MODFLOW, MT3D, and MODPATH",
                     "Hydrologic and Hydraulic Modeling with HEC-HMS and HEC-RAS",
-                    "Hydrology and Hydrogeology Analysis"
+                    "Hydrology, Hydrogeology, and Contaminant Transport Analysis"
                 ],
-                "description": "Modeling and analysis of watersheds, contaminant transport, and ecosystem services."
+                "description": "Modeling and analysis of watersheds, groundwater systems, contaminant transport, and ecosystem services."
             },
             {
                 "id": "skill-006",
                 "name": "Project Management & Field Implementation",
                 "tools": [
-                    "Project Formulation and Management",
-                    "Disaster Response Coordination",
-                    "Climate Adaptation Planning",
-                    "Stakeholder Engagement",
-                    "Sustainable Agriculture Programs"
+                    "Project Formulation, Planning, and Management",
+                    "Disaster Response and Emergency Coordination",
+                    "Climate Change Adaptation Planning",
+                    "Stakeholder Engagement and Community Training",
+                    "Sustainable Agriculture and Resilience Programs"
                 ],
-                "description": "Management of technical, humanitarian, and sustainability-focused environmental projects."
+                "description": "Management and implementation of technical, humanitarian, and sustainability-focused environmental projects."
             }
         ],
         "competencies": [
             {
                 "name": "Technical Writing",
-                "icon": "📄✍️🗂️🎯"
+                "icon": "📄✍️"
             },
             {
                 "name": "Public Speaking",
