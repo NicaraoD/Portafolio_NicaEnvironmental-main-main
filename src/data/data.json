@@ -103,11 +103,12 @@
     "experience": [
         {
             "id": "Experience_1",
-            "title": "Teaching Assistant of Environmental Biotechnology (CEVE 536)",
+            "title": "Teaching Assistant",
             "duration": "2024 - 2025",
             "company": "Rice University",
             "location": "Houston, Texas, USA",
             "responsibilities": [
+                "Teaching Assistant of Environmental Biotechnology (CEVE 536)",
                 "Assisted instruction and guidance for graduate students in microbial kinetics concepts, bioreactor design methods, and environmental biotechnology applications in wastewater treatment.",
                 "Provided technical mentoring and problem-solving support during coursework and office hour sessions."
             ],
@@ -180,37 +181,36 @@
     ],
     "academicRoles": [
         {
-            "role": "President of the Civil and Environmental Engineering Department GSA",
+            "role": "President of the Civil and Environmental Engineering Department Graduate Student Association",
             "duration": "2024 - 2025",
-            "institution": "Rice University • Houston, TX, USA",
+            "institution": "Rice University | Houston, TX, USA",
             "description": "President of the Graduate Student Association (GSA) of the Civil and Environmental Engineering Department at Rice University during the 2024-2025 academic year.",
             "achievements": [
-                "Collaborated with an international and multicultural team",
-                "Connected laboratories accross the department",
-                "High attendance to organized events and seminar"
+                "Collaborated with an international and multicultural team.",
+                "Connected laboratories accross the department.",
+                "High participation to organized events and seminars."
             ]
         },
         {
             "role": "Director of Science Communication in the NEWT Student and Postdoc Leadership Council",
             "duration": "2024 - 2025",
-            "institution": "Nanotechnology-Enabled Water Treatment Institute (NEWT) • Rice University • Houston, TX, USA",
-            "description": "Director of Science Communication in the Student and Postdoc Leadership Council of the Nanotechnology-Enabled Water Treatment Institute (NEWT) during 2024-2025 and a Graduate Student during 2022-2025.",
+            "institution": "Nanotechnology-Enabled Water Treatment Institute (NEWT) | Rice University | Houston, TX, USA",
+            "description": "Director of Science Communication in the Student and Postdoc Leadership Council of the Nanotechnology-Enabled Water Treatment Institute (NEWT) during 2024-2025 and a Graduate Student fellow during 2022-2025.",
             "achievements": [
-                "NSF funded NEWT research associate from 2022-2025",
-                "Inter-University collaboration",
-                "Poster presentation in inter-university conference",
-                "Created the graduate students research Highlight section in the NEWT communications"
+                "NSF-Funded NEWT research associate from 2022-2025.",
+                "Created the graduate students research Highlight section in NEWT communications.",
+                "Poster presentation in inter-university conferences."
             ]
         },
-                {
-            "role": "WaTER Research Graduate Student Associate",
+        {
+            "role": "WaTER Research Graduate Student Fellow",
             "duration": "2024 - 2025",
-            "institution": "Water Technologies Entrepreneurship and Research Institute (WaTER) • Rice University • Houston, TX, USA",
+            "institution": "Water Technologies Entrepreneurship and Research Institute (WaTER) | Rice University | Houston, TX, USA",
             "description": "Graduate Student of the Rice Water Technologies Entrepreneurship and Research Institute (WaTER) during spring 2024 and the 2024-2025 academic year.",
             "achievements": [
-                "Poster presentation in inter-university conference",
-                "Inter university and interdepartamental collaboration",
-                "First wave of research associates"
+                "NSF funded WaTER research associate from 2024-2025.",
+                "First wave of research associates.",
+                "Inter-University research collaboration."
             ]
         }
     ],
